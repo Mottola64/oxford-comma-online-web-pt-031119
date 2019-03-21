@@ -7,4 +7,3 @@ elsif 2 < array.length
 else
   array.join(", ")
 end
-end
